@@ -1,6 +1,6 @@
 # AI Innovators Project - Public Safety & Accessibility
 
-#Group Members and Roles:
+# Group Members and Roles:
 - Dion Hutch - AI Ethicist
 -
 -
@@ -15,5 +15,5 @@
 - Using GitHub and Google Slides.
 - More details will be added later.
 
-#Check-In #1
+# Check-In #1
 - I made the GitHub repo and began adding the first details so that we have something to start with.
