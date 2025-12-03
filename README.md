@@ -11,9 +11,9 @@
 3. #
 
 # Group Charter
-- Still trying to connect with group.
-- Using GitHub and Google Slides.
-- More details will be added later.
+• Communication: GitHub and email
+• Tools: GitHub, Google Slides
+• Meeting Plan: To be set once we make contact
 
 # Check-In #1
 - I made the GitHub repo and began adding the first details so that we have something to start with.
