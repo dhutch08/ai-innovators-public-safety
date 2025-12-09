@@ -34,8 +34,10 @@ This method was chosen because it is lightweight, fast, and commonly used for id
 - A human should always confirm alerts before alerting anyone.
 
 # Ethical Use Statement
-- HazardWatch will only be used to detech safety hazards and is not for survelliance or tracking.
+- This tool will only be used to detech safety hazards and is not for survelliance or tracking.
 
 # Sale Market
 - Our tool will be userful for any larger public areas, such as malls, schools, walking paths or areas and any building where it is hard for staff to keep an eye on all locations at once.
   
+# Product Name: HazardWatch
+# Logo: 
