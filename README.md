@@ -41,3 +41,4 @@ This method was chosen because it is lightweight, fast, and commonly used for id
   
 # Product Name: HazardWatch
 # Logo: 
+![HazardWatch Logo])
