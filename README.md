@@ -41,4 +41,4 @@ This method was chosen because it is lightweight, fast, and commonly used for id
   
 # Product Name: HazardWatch
 # Logo: 
-![HazardWatch Logo])
+![HazardWatch Logo](https://github.com/dhutch08/ai-innovators-public-safety/blob/main/Screenshot%202025-12-09%20154722.png?raw=true)
