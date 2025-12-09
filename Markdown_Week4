@@ -1,0 +1,17 @@
+AI Method:
+- Using a simple computer vision detection model
+- Chosen because it is lightweight, fast, and commonly used for identifying objects
+- Detects hazards like spills, blocked exits, or any accidents or obstacles.
+
+Data Acqusition Plan:
+Sources:
+- Public online image datasets
+- Kaggle datasets
+Data Type:
+- Indoor images of hazards and walkways
+- No personal or identifying information
+Ethical Notes:
+- No facial recognition
+- Data only used for hazard detection
+- Only public or non-personal data
+Limitations
