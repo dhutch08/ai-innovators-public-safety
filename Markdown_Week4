@@ -15,3 +15,6 @@ Ethical Notes:
 - Data only used for hazard detection
 - Only public or non-personal data
 Limitations
+- Poor lighting may causes issues and missing hazards.
+- It could make mistakes if the environment is very different from the training data
+- Real-time detection might be slow on weaker devices
