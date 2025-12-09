@@ -15,6 +15,10 @@
 • Tools: GitHub, Google Slides
 • Meeting Plan: To be set once we make contact. Until then, work in being completed individually.
 
+# Product Choice:
+We will create an AI-driven safety assistant that analyzes camera footage to identify hazards and accessibility issues.
+By detecting risks early and sending alerts to staff, our tool improves safety, reduces liability, and offers smoother facility operations.
+
 # Stragegy:
 The project will use a computer object detection model to identify hazards from camera footage.
 This method was chosen because it is lightweight, fast, and commonly used for identifying objects.
@@ -42,3 +46,6 @@ This method was chosen because it is lightweight, fast, and commonly used for id
 # Product Name: HazardWatch
 # Logo: 
 ![HazardWatch Logo](https://github.com/dhutch08/ai-innovators-public-safety/blob/main/Screenshot%202025-12-09%20154722.png?raw=true)
+
+# Pitch Video
+
