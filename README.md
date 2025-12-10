@@ -20,8 +20,8 @@ We will create an AI-driven safety assistant that analyzes camera footage to ide
 By detecting risks early and sending alerts to staff, our tool improves safety, reduces liability, and offers smoother facility operations.
 
 # Stragegy:
-The project will use a computer object detection model to identify hazards from camera footage.
-This method was chosen because it is lightweight, fast, and commonly used for identifying objects.
+The tool with utilize image recognition to detect hazards such as a blocked door or exit, and slipping hazards.
+The model analyzes camera footage and identifies when there is a hazard, the tool then alerts staff of the hazard to immediatly get fixed.
 
 # Data Search Plan:
 • Public online image datasets
@@ -46,6 +46,8 @@ This method was chosen because it is lightweight, fast, and commonly used for id
 # Product Name: HazardWatch
 # Logo: 
 ![HazardWatch Logo](https://github.com/dhutch08/ai-innovators-public-safety/blob/main/Screenshot%202025-12-09%20154722.png?raw=true)
+
+#Slideshow
 
 # Pitch Video
 [Pitch Video](https://1drv.ms/v/c/3f510b3f0b4a6630/IQCYmxvrEz4ORLX3VEgbAInjAbn4o02tCQUK82KeeK4m138?e=3D7tBn)
