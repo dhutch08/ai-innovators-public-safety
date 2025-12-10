@@ -48,8 +48,8 @@ The model analyzes camera footage and identifies when there is a hazard, the too
 ![HazardWatch Logo](https://github.com/dhutch08/ai-innovators-public-safety/blob/main/Screenshot%202025-12-09%20154722.png?raw=true)
 
 # Sample Images
-![Blocked door example](https://github.com/dhutch08/ai-innovators-public-safety/blob/main/Screenshot%202025-12-09%20154722.png?raw=true)
-![Slip hazard example](https://github.com/dhutch08/ai-innovators-public-safety/blob/main/Screenshot%202025-12-09%20154722.png?raw=true)
+![Blocked door example](https://github.com/dhutch08/ai-innovators-public-safety/blob/main/Screenshot%202025-12-09%20162423.png)
+![Slip hazard example](https://github.com/dhutch08/ai-innovators-public-safety/blob/main/Screenshot%202025-12-09%20162548.png)
 
 #Slideshow
 [Click here to view my project slideshow](https://1drv.ms/p/c/3f510b3f0b4a6630/IQDqChhMu719TaePQ0ZjqE8bAUXnjP5gMoSU4jgOF_cSfMo?e=Q7QQIV)
